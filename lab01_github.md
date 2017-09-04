@@ -26,13 +26,13 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
 
 ## *A Favorite Quote*
 
->  "Jack of all Trades, is a master of none, but oftentimes better than a master of none." - Unknown
+>  "Jack of all trades is a master of none, but oftentimes better than a master of none." - Unknown
 
 ## *A Favorite Photo*
 
-![alt text](https://media.newyorker.com/photos/5909647d2179605b11ad5ecc/master/w_767,c_limit/100906_friedlander-1_p465.jpg "Friedland")
+![alt text](https://500px.com/photo/219319565/bermuda-blue-by-morgann-taylor?ctx_page=1&from=user&user_id=21236087)
 
-["Lee Friedlander: American Icon". The New Yorker.](https://media.newyorker.com/photos/5909647d2179605b11ad5ecc/master/w_767,c_limit/100906_friedlander-1_p465.jpg) September 2, 2010. 
+[500.px Morgann Taylor](https://500px.com/photo/219319565/bermuda-blue-by-morgann-taylor?ctx_page=1&from=user&user_id=21236087) 
 
 ## *Questions*
 
