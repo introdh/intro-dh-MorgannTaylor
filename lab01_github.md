@@ -21,11 +21,12 @@ Complete the following items using Markdown using [this cheatsheet](https://gith
 
  
  Create your response below this line. 
+
  ------------------
 
 ## *A Favorite Quote*
 
->  "You have not observed. And yet you have seen." - Sherlock Holmes
+>  "Jack of all Trades, is a master of none, but oftentimes better than a master of none." - Unknown
 
 ## *A Favorite Photo*
 
