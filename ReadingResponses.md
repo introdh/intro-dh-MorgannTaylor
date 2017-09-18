@@ -10,7 +10,7 @@ For each reading, pick two sentence/passages. One should be where the had an AHA
     "To understand literature, Moretti argues, we must stop reading books."
           - This article was very interesting because of the idea. Moretti claims that no matter how many books someone reads, there is no way they would read every book about an area. There are thousands of books about the same thing, and perhaps a digital program would make it easier for someone to compare everything. 
      "I admire Moretti’s honesty in saying this: most scholars, whatever their disciplinary background, do not publish negative results.But I would admire it more if he didn’t elsewhere dismiss qualitative literary analysis as “a theological exercise.”"
-          _ I am still a little bit confused what is meant by this. I understand what is meant that someone would not publish negative results for their own agenda. But I am lost what is meant by a "theological excercise". 
+           -I am still a little bit confused what is meant by this. I understand what is meant that someone would not publish negative results for their own agenda. But I am lost what is meant by a "theological excercise". 
  
 "Jocker's"
 
