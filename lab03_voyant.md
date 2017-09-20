@@ -117,7 +117,7 @@ Let's now take a look at George Washington vs President Obama's SOTU addressess.
 Unzip the file.
 
 Go to [Voyant](https://voyant-tools.org/) and select "Upload".  
-The speechs are named according to year. 
+The speeches are named according to year. 
 Make sure the files are in numerical order for this determines how Voyant loads them in.  Now, let's explore!
 
 To begin, take a look at Cirrus. 
@@ -139,4 +139,4 @@ Let's take a look at the terms used by Washington and Obama.
 
 ##### Explore!
 
-Interested in looking at all of the State of the Union addresses? Here you [go](https://programminghistorian.org/assets/basic-text-processing-in-r/sotu_text.zip)! 
+Interested in looking at all of the State of the Union addresses? Here is the [speeches](https://programminghistorian.org/assets/basic-text-processing-in-r/sotu_text.zip) and here is the [metadata](https://github.com/nolauren/dh2017/blob/master/metadata.csv)! 
