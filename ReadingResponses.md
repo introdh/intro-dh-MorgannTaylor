@@ -31,6 +31,38 @@ For each reading, pick two sentence/passages. One should be where the had an AHA
 
 ### 2017-10-02: Topic Modeling II
 
+##### Signs art 40
+"Using Topic Modeling, a computer-assisted means of dividing a large corpus of texts into topics, this browser explores the Signs archive by dividing it into several topics and tracing how those topics change over time." 
+      - I find this description of topic modeling easier to understand than previously in class. Topic modeling is using the computer to divde a corpus into topics. 
+"Feminist scholars, purse lines of inquiry and analysis prompted by this anniversary project, particularly the topic modeling." 
+      - I am a bit confused what it means that scholars take topic modeling and create projects. I understand that using topic modeling, you get a list of relevant topics for a select number of journals. But I do not understand where you go from there. 
+##### Mining the Dispatch
+"The former was produced by scholars, librarians and technologists at the University of Richmond and Tufts University's Perseus Project."
+      - I had no idea that this was produced by people at the University of Richmond. It is really interesting to see things that people on campus are doing or have helped to create. 
+      
+"It uses as its evidence nearly the full run of the Richmond Daily Dispatch from the eve of Lincoln's election in November 1860 through the evacuation of the city in April 1865 (at which point publication of the Dispatch ceased) to December 1865 (when publication of the Dispatch resumed), an archive of over 112,000 pieces consisting of nearly 24 million words."
+      - This is interesting, as I did not think that there would be so many pieces during that time. I understand that it was historically Richmond based, but I wonder if including more from other large cities at the time, would have helped understand what was going on. Isn't it better to look macro versus micro?
+
+##### Text Analysis of Trump's Tweets
+  
+"When Trump wishes the Olympic team good luck, he’s tweeting from his iPhone. When he’s insulting a rival, he’s usually tweeting from an Android. "
+      - I find this very interesting that we can apply topic modeling to more things that just literary journals. I think this helps me connect topic modeling into something I could use. 
+
+"Overall, this includes 628 tweets from iPhone, and 762 tweets from Android."
+      - I do wonder if this is enough of a database. Could they have gone further back to include texts previously to running to office? How large does the corpus need to be? 
+      
+##### Data Miners Dig for Answers About Harper Lee, Truman Capote and ‘Go Set a Watchman’
+"Hours after “Go Set a Watchman”went on sale Tuesday, the developers of a
+computerized text­analysis tool ran the long­awaited novel and Ms. Lee’s Pulitzer­Prize
+winning “To Kill a Mockingbird” through an algorithm that searched for signs of heavy
+editing, frequent rewriting and other influences."
+
+     -I found this amazing that someone/ a program can help determine if it took alot of rewriting while creating a book. I have read "Go set a Watchman" after reading "To Kill a Mockingbird" and there was definitely a different voice throughout the book. I find it really cool that we can use a computer program to discover that too. 
+"The researchers used a computer program to tally the frequency of common words —“the,” “a,” “he,” “she”—and other “function” words that they said typically make up 50%
+of a novel."
+       - I thought we did not use connecting words with software that we use? Or is it something that is based on each project and what that person is looking for? 
+
+
 ### 2017-10-09: Stylometry
 
 ### 2017-10-18: Spatial history
