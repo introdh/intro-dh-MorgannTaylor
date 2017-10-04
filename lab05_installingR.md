@@ -12,25 +12,25 @@ We need to download the R programming language. To do
 this go to [https://cran.r-project.org/](https://cran.r-project.org/)
 and select your platform:
 
-![](img/cran01.jpeg)
+![](cran01.jpeg)
 
 ### Download R (Mac Step 2)
 
 For macOS, just download R-3.4.1 (or whatever is the most recent):
 
-![](img/cran02.jpeg)
+![](cran02.jpeg)
 
 ### Download R (Windows Step 2)
 
 For Windows, first select **base**
 
-![](img/cran03.jpeg)
+![](cran03.jpeg)
 
 ### Download R (Windows Step 3)
 
 And then *Download R 3.4.1*
 
-![](img/cran04.jpeg)
+![](cran04.jpeg)
 
 ### Install R 
 
