@@ -63,11 +63,45 @@ of a novel."
        - I thought we did not use connecting words with software that we use? Or is it something that is based on each project and what that person is looking for? 
 
 
-### 2017-10-09: Stylometry
-
-### 2017-10-18: Spatial history
-
 ### 2017-10-23: Mapping: A Critical Introductin
+
+##### BEYOND GIS
+" Whithin a GIS, users can discover relationships that make a complex world more immediately understandable by visually detecting spatial patterns."
+
+    - I think I am still confused what spacial analysis is. I think I need to see an example, or participate in an example to understand the concept. 
+    
+" A well-presented argument often does not settle a question; it may complicate it or open new questions that previously were unimagined." 
+
+    - This is very similar to what we had talked abotu in class. That an argument is up to interpretation. Also, due to this class, it also brings up the idea that what are facts and how do you determine if a fact can be trusted or not? 
+    
+##### What is Spatial History
+
+"It is a humble —if demanding and expensive— attempt to do history in a different way." 
+
+    - I am curious about how this program or spatial analysis can be expensive. I get the general ideas, but I do not understand how it requires so much or if it expensive. I may have read this completely wrong, but I wonder the platforms used and how easy it is to run a spatial analysis. 
+    
+"Visible evidence of the Public Land Survey System (PLSS) across the United States can be seen above in the aerial landscape photos by Alex MacLean."
+
+    - This is one of the best visuals I have seen in this class yet. It is interesting how so many things can work together in order to develop a question and pose a response. Seeing the layout of the land followed by the map of the U.S., it is amazing how so much can be shown using the computer or other platforms. 
+    
+##### A Data Model for Spatial History
+
+"The second type of digitization combines data from two or more digitized primary sources, based on a common "attribute" like a time or place, to create new materials."
+    - This is the first time I have picted up on the idea of using primary sources in these documents. Similar to what I spoke about before, it is important to understand where people are getting their data from, and if it is valid or not. That will definitely be a take away from this class. Understanding facts and data, and determining what to do with it, as well as verifying it. 
+    
+"It is our hope that future researchers become part of the scholarly commons by contributing to our geodatabase." 
+    - I am a bit conused how scholars use this? I understand what the proffessor talked about in class, how he used new articles to use topic models. But say a historian wanted to study a subject, would they consult someone who is interested in Digital humanites to further explain their project? 
+    
+##### American Panorama    
+    
+"Through HOLC, in particular, real estate appraisers used the apparent racial and cultural value of a community to determine its economic value."
+
+    - This is probably the first example that I actually understand what is going on. I think having someone from the site, come in and talk to us and show us what everything means, helps explain things a bit further. Honestly, the first few weeks I was a bit confused for what Digital Humanities consisted of. But after seeing this and a few other examples, I am able to get a grasp of just what Digital Humanities is able to do. 
+    
+"That number is then divided by half of the growth rate as to avoid double counting reproduction in both in-migrating and out-migrating areas."
+
+    - A few times in calss, we have talked about equations and how they relate and process data. I am curious how people come up with formulas to understand the data, or is it purely mathematical? 
+    
 
 ### 2017-11-06: Social networks
 
