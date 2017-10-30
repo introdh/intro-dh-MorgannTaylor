@@ -17,6 +17,12 @@ The characterstics of a strong abstract:
 - identifies which humanities fields/ disciplines the project is engaged in 
 
 
+### ABSTRACT
+
+DIET TRENDS
+
+  - Many people are always looking for that magic pill to make them stay in shape, or help them shave off a few extra pounds. Every New Years or the beginning of summer, everyone mentions how they need to start going to the gym to get in shape. Most althetic coaches out there will agree that someone's health and fitness is not only about going to the gym, but it is also about what goes in a person's body. In the early 90's, everyone started cutting out carbs, thinking that carbs were terrible for people. Then people began cutting out fats and eating more carbs. Now, we have evidence that the true culprit to obesity has to do with sugar. I want to find the diet trends within the last 50 years, hoping to find a correlation with how people view food and the way that they eat. I will be able to show this through topic modeling, as well as a GIS map to show the areas within the United States that eat certain foods or correlate with diet trends. 
+
 
 
 
