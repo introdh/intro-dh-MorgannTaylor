@@ -105,6 +105,58 @@ of a novel."
 
 ### 2017-11-06: Social networks
 
+##### Demystifying Networks, Parts I & II
+
+"Methodology appropriation is dangerous. Even when the people designing a methodology for some specific purpose get it right—and they rarely do—there is often a score of theoretical and philosophical caveats that get lost when the methodology gets translated. "
+         - I am a bit comfused what methodology means. I am assuming the author is talking about two different approaches to networks. 
+         
+"Generally, network studies are made under the assumption that neither the stuff nor the relationships are the whole story on their own."
+         - This article was probably one of the best I've read this semester for explaining the main idea. I always thought a network was life a web one connecting piece to another. But it actually is alot more! The relationships are based on so many forms of data and nodes. 
+  
+##### Linked Jazz
+
+"New modes of connecting cultural data have the potential to open up new and unprecedented avenues of research and community engagement."
+
+     - I think this is really interesting. The Linked Jazz site was fairly easy to navigate and had a great topic!
+     
+"If the same individual already has a URI in DBPedia, we create a sameAs triple to connect that URI with our Linked Jazz URI."
+
+    - I do not quite understand why each individual needs multiple URI's. Couldn't they all connect with the same URI? 
+ 
+ ##### Literary Lab Pamphlet
+ 
+ "A network is made of vertices and edges; a plot, of characters and actions: characters will
+be the vertices of the network, interactions the edges[.] " 
+
+   - I feel like this is an easy way to understand what a network tryly is. The Hamlet example was a better way of seeing it. 
+   
+"Third consequence of this approach: once you make a network of a play, you stop working
+on the play proper, and work on a model instead"
+
+   - I am a little confused what this means. I understand that when you start looking at the structure, you can see all of the little bits that don't fit, but how do you get it from a created network to the structure. 
+   
+##### Topic Modeling and Network Analysis
+
+"Since shortly after Blei’s first publication, researchers have been looking into the interplay between networks and topic models."
+
+   - I thought I understood what a topic model and a network were, however I am not sure why they aren't the same. I would think a topic model is from networks and without a network a topic model would not exist? 
+   
+"Now it’s time to pull out the topics and start writing. It’s an easy process; each topic is a bag filled with words."
+
+   - I finally understand Topic Modeling! I think I am getting what a network actually is confused. I think once we do an example in class, that will help me understand it better. 
+   
+##### Contextualizing networks with maps
+
+"A network on its own is a set of meaningless relationships without a knowledge of what travels through and across it, what entities make it up, and how that network interacts with the larger world"
+
+   - I think I understand this. A network is a bunch of items that are related, but they need to be understood to form a relationship. I may be totally wrong, but this is what makes sense to me. 
+   
+"Network space rarely corresponds to geographic place, however neither of them alone can ever fully represent the landscape within which we are situated" 
+
+   - I am confused how a network and geography can be similar. Wouldn't a network stay within an environment. Similar to how we talked about the meaning of a safe place as an actual place versus an atmosphere. 
+
 ### 2017-11-13: Layering Networks
+
+
 
 ### 2017-11-27: Critical DH
