@@ -26,10 +26,10 @@ Washington University in St. Louis assigned each United States Supreme Court cas
 The baseball data gives either links between MLB teams (that share players) or
 links between MLB teams and college teams (again, that share players). The latter is bipartite.
 
-[MLB - Edges](https://github.com/nolauren/dh2017/blob/master/mlb_teams_edges.csv)
-[MLB - College Edges](https://github.com/nolauren/dh2017/blob/master/mlb_college_edges.csv)
-[MLB - College Nodes](https://github.com/nolauren/dh2017/blob/master/mlb_college_nodes.csv)
-[MLB - College Edges](https://github.com/nolauren/dh2017/blob/master/mlb_teams_nodes.csv)
+[MLB - Edges](https://github.com/nolauren/dh2017/blob/master/mlb_teams_edges.csv) | 
+[MLB - College Edges](https://github.com/nolauren/dh2017/blob/master/mlb_college_edges.csv) | 
+[MLB - College Nodes](https://github.com/nolauren/dh2017/blob/master/mlb_college_nodes.csv) | 
+[MLB - College Edges](https://github.com/nolauren/dh2017/blob/master/mlb_teams_nodes.csv) | 
 
 
 How do we read these edge lists?
