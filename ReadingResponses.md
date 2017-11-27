@@ -29,6 +29,35 @@ For each reading, pick two sentence/passages. One should be where the had an AHA
 
 ### 2017-09-25: Topic modeling I
 
+##### Topic Modeling: A Basic Introduction
+
+"Topic modeling is a form of text mining, a way of identifying patterns in a corpus. You take your corpus and run it through a tool which groups words across the corpus into ‘topics’."
+
+   - So topic modeling to me means that there is a program which can extract words "mining" and it can be used to organize the subject material into topics. 
+   
+"What, then, is a topic? One definition offered on Twitter during a conference on topic modeling described a topic as “a recurring pattern of co-occurring words.” 
+    - I feel like the word topic shoudl be different. When I think of a topic I think of book genres or the topic of an essay, what the information is about. But to me, I don't understand how topics can be be derrived by words. 
+    
+##### The Digital Humanities Contribution to Topic Modeling
+
+" It is distant reading in the most pure sense: focused on corpora and not individual texts, treating the works themselves as unceremonious “buckets of words,” and providing seductive but obscure results in the forms of easily interpreted (and manipulated) “topics.” "
+
+   - I like the way this is described. As a "bucket of words" I can visualize how the words are dumped into a bucket, and then arranged by the frequency in the bucket for example. 
+   
+"Topic modeling itself is about 15 years old, arriving from the world of computer science, machine learning, and information retrieval."
+
+   - I would be interested in knowing what teh first topic modeling project was used to understand. 15 years old seems like a very long time for computers. I would have been in kindergarten and that was when we learned how to type using a system on a floppy disk. 
+   
+##### MARTHA BALLARD’S DIARY
+
+"And I would go day by day for every other year of the diary, and I would tick off what was in each entry: baking or brewing, spinning or washing, or trading, sewing, mending, deliveries, general medical accounts, going to church, visitors, people coming for meals, etc.”"
+
+   - Earlier I asked what were the earlier examples of topic modeling and now I understand how it happened. To go page by page, entry by entry, and having to check off which topic it would fall under is tedious but interesting. But to me, the pages were being read, and that feels mroe right versus a computer collecting words that are repeated. 
+   
+"The diary’s format translates quite nicely into creating a list of lists – the “main” diary being a list of all the entries, and each entry being a list in and of itself. "
+
+  - This does not seem like the type of topic modeling that we have tried. Lists of words versus a formatted list seem very different to me. 
+  
 ### 2017-10-02: Topic Modeling II
 
 ##### Signs art 40
@@ -157,6 +186,69 @@ on the play proper, and work on a model instead"
 
 ### 2017-11-13: Layering Networks
 
+##### Network Theory Plot Analysis
 
+"A network is made of vertices and edges; a plot, of characters and actions: characters will
+be the vertices of the network, interactions the edges"
 
+   - When we talked in class, I understoof what Plot Anaylsis was and how networks play into them. I think looking into the Hamlet readings really helped to understnad different ways we can use a network. 
+   
+"This had happened before of course, without producing lasting
+effects, but this time it’s probably going to be different, because this time we have digital
+databases, and automated data retrieval. "
+
+   - I feel sometimes that these readings have me following along, and then they use terms that I am not sure of. I am a bit confused what automated data retrieval is. I am sure I have used something similar, but I am curious to know what exactly that is or if that is like R or something else. 
+   
+##### Topic Modeling and Network Anaylsis
+
+"So why is the generative nature of the model so important? One of the key reasons is the ability to work backwards."
+
+   - I understand what topic modeling is, but I am not sure how someone can work backwards from it. Would that be taking a look at what is found and then analysing it? 
+   
+"Topic models can interact with networks in multiple ways. While a lot of the recent interest in digital humanities has surrounded using networks to visualize how documents or topics relate to one another, the interfacing of networks and topic modeling initially worked in the other direction."
+
+   - To me, topic modeling is the easiest way to understand the graphing or the visualization that we have been focusing on. I think it just makes sense that there are journals for example, then the words extracted can make up topics, and then we can assign the topics general names based on what the findings were. 
+   
+##### Contextualizing networks with maps
+
+"Humanists are starkly aware that no particular aspect of a subject sits in a vacuum; context is key. A network on its own is a set of meaningless relationships without a knowledge of what travels through and across it, what entities make it up, and how that network interacts with the larger world."
+
+   - I love this. One thing I will defintely take away from this class is the fact that there needs to be a context. Not just context, but there needs to be a focus on where the information is coming from and if it is reliable or not. Previously, I was given data and figured out what to do with it, but now I understand the importance of taking a deeper look at the data itself. 
+   
+"By combining geography, point statistics, and networks, we can create base maps against which we can contextualize whatever we happen to be studying."
+
+   - I am a bit confused what a base map is. I understand that we can map a network, so would the base map be just the nodes and edges? 
+   
+ 
+    
 ### 2017-11-27: Critical DH
+
+##### Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation
+
+"As I flew home following this second event, I found myself reflecting on how far my thoughts had ranged in the course a mere week: from diaspora to database, from oppression to ontology, from visual studies to visualizations."
+
+   - I loved this site because it allowed for comments and likes within a post. This one for example had two comments from other readers. I find that to be helpful and I am curious if other sites can do that as well. 
+   
+"In simplest terms, UNIX is an early operating system for digital computers, one that has spawned many offshoots and clones."
+
+   - I would like to learn a bit more on the history of computers and networks. The way this site explained this was that UNIX is the first operating system before Mac or anything. 
+   
+##### Reflections on a Movement: #transformDH, Growing Up
+
+"By expanding who and what counts as DH, we can model for other academic communities the transformative power of collaborative energy to address the questions of our time."
+
+   - In the beginning of this course, I could not tell you what DH meant. But now I understand that a great ammount of items can be considered as humanities, but you have to ask the right questions. I also now understand where the digital side comes in as well. 
+   
+"We need a digital humanities that will center on the intersection of digital production and social transformation through research, pedagogy, and activism, and that will not be restricted to institutional academic spaces."
+
+   - Although I have a better understanding for what DH is, I am confused on how it is restricted. I feel like it is not just limited to "institutional academic spaces". DH can happen anywhere and with any sort of humanities questions. 
+   
+##### The Digital in the Humanities: A Special Interview Series
+
+"For Bethany Nowviskie, the digital humanities means a great deal, although she states that defining what this meaning is exactly has been a “distraction” and “detraction” from the work itself. "
+
+  - See I would argue that there should be a clear definition for what DH is. When I started this course, I googled what DH entails, and I was very confused on the matter. 
+
+"In fact, “digital humanities” seems astoundingly inappropriate for an area of study that includes, on the one hand, computational research, digital reading and writing platforms, digital pedagogy, open-access publishing, augmented texts, and literary databases, and, on the other, media archeology and theories of networks, gaming, and wares both hard and soft. As Franco Moretti said to me early in my conversation with him: “‘digital humanities’ means nothing.”"
+
+   - It is interesting how so many people in the field do not believe that there is a correct definition for what DH is. It is a broad subject area, but it shoudl be defined as so. 
